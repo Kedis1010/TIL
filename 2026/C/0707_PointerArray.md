@@ -27,7 +27,7 @@ int *ptr[5] = {&a, &b, &c, &d, &e};
 해당 내용처럼, 포인터 배열은 **주소값을 원소로 쓰는 배열**이라는 것이다.
 그러므로, 상단 코드의 경우 int포인터(int*)를, 곧 int형 변수의 주소값을 원소로 할당 가능한 배열로 보면 되겠다.
 
-[!pointerArray](./img/0707/PointerArray.png)
+![pointerArray](./img/0707/PointerArray.png)
 
 호출 방식은 다음과 같다.
 ``` C++
